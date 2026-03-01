@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/js高级01.md",
+                "file": "news/US-Israel war on Iran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "js高级01"
+              "title": "US-Israel war on Iran"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "js/js高级01.md",
+            "file": "news/US-Israel war on Iran.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "js/js高级01.md",
+            "file": "news/US-Israel war on Iran.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "js/js高级01.md",
+            "file": "news/US-Israel war on Iran.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,6 +170,8 @@
   },
   "active": "fea8508a577fd687",
   "lastOpenFiles": [
-    "未命名"
+    "news",
+    "js/js高级01.md",
+    "news/US-Israel war on Iran.md"
   ]
 }

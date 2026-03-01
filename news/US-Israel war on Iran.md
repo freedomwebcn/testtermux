@@ -1,0 +1,1 @@
+The US Central Command (Centcom) said it was a “lie” that the USS Abraham Lincoln was struck by Iranian missiles. It issued the statement after Iranian state media reported earlier that the Islamic Revolutionary Guards Corp said they had attacked the aircraft carrier with four ballistic missiles.
