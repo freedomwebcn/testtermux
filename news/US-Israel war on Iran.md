@@ -1,4 +1,18 @@
 
+Donald Trump said that the US has destroyed nine Iranian navy ships and largely destroyed Iran‘s naval headquarters.
+
+“I have just been informed that we have destroyed and sunk 9 Iranian Naval Ships, some of them relatively large and important,” Trump said in a post on Truth Social. “We are going after the rest — They will soon be floating at the bottom of the sea, also! In a different attack, we largely destroyed their Naval Headquarters.”
+
+---
+
+Iran targeted the USS Abraham Lincoln, but the “missiles launched didn’t even come close,” according to a social media post from US Central Command (Centcom).
+
+“The Lincoln was not hit,” the post said. “The missiles launched didn’t even come close. The Lincoln continues to launch aircraft in support of Centcom’s relentless campaign to defend the American people by eliminating threats from the Iranian regime.”
+
+Iran’s Revolutionary Guard Corps, the country’s most powerful military body, was quoted earlier in an Iranian news outlet as saying that four ballistic missiles had targeted the ship.
+
+---
+
 Three US service members have been killed in action as part of US military operations against Iran, the US Central Command said in a statement on Sunday. These are the first confirmed deaths since the US began launching strikes against Iran on Saturday.
 
 Five additional personnel have been reported seriously wounded as part of Operation Epic Fury, the US military said. Authorities have not yet publicly identified the three soldiers who were killed.
