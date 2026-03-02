@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "碎碎念/termux自动同步手机笔记至Github.md",
+                "file": "碎碎念/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "termux自动同步手机笔记至Github"
+              "title": "test"
             }
           }
         ],
@@ -199,8 +199,8 @@
   },
   "active": "7be10fd41e520b4f",
   "lastOpenFiles": [
-    "碎碎念/test.md",
     "碎碎念/termux自动同步手机笔记至Github.md",
+    "碎碎念/test.md",
     "news/US-Israel war on Iran.md",
     "碎碎念/科技的魅力.md",
     "未命名",
