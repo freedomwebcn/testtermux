@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news/US-Israel war on Iran.md",
+                "file": "碎碎念/termux自动同步手机笔记至Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "US-Israel war on Iran"
+              "title": "termux自动同步手机笔记至Github"
             }
           }
         ],
@@ -199,9 +199,9 @@
   },
   "active": "7be10fd41e520b4f",
   "lastOpenFiles": [
+    "news/US-Israel war on Iran.md",
     "碎碎念/科技的魅力.md",
     "碎碎念/termux自动同步手机笔记至Github.md",
-    "news/US-Israel war on Iran.md",
     "未命名",
     "碎碎念",
     "news",
